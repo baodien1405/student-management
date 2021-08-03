@@ -5,7 +5,7 @@ Github Project: https://github.com/baodien1405/student-management
 
 ## Production Deployment
 
-Website Project: https://dien-shopping-cart.vercel.app/
+Website Project: https://student-management-app.vercel.app
 
 
 ### 1. Setup React and Redux App via Create React App using TypeScript
